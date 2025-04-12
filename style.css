@@ -141,9 +141,10 @@ button:hover{
     margin-right: 10px;
 }
 
-.lower-section a:hover{
+.last-section a:hover{
     text-decoration: underline;
 }
+
 
 footer{
     position: fixed;
